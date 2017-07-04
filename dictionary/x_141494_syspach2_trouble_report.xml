@@ -25,6 +25,7 @@
         <element label="依頼日" max_length="40" name="u_reportdate_2" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_reportdtl_2j" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="New Reference" max_length="40" name="u_reporter" reference="cmdb_ci_appl_dot_net" type="string"/>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="起票者" max_length="32" name="u_reporter1" reference="x_141494_syspach2_trouble_report" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="所属" max_length="40" name="u_reporterdepartment" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="起票者内線" mandatory="true" max_length="40" name="u_reporterphone" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="依頼者内線" mandatory="true" max_length="40" name="u_reporterphone_2" type="string"/>
