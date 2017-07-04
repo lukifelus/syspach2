@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Trouble Report" max_length="40" name="x_141494_syspach2_trouble_report" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="内容" mandatory="true" max_length="40" name="u_content" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="ATLAS" label="ＤＢ区分" mandatory="true" max_length="40" name="u_db_section" type="string">
+            <choice>
+                <element label="ATLAS" sequence="0" value="ATLAS"/>
+                <element label="NAPOLEON" sequence="1" value="NAPOLEON"/>
+                <element label="その他" sequence="2" value="OTHER"/>
+            </choice>
+        </element>
+        <element label="希望対応日" mandatory="true" max_length="40" name="u_desirabledate_for_hndline" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザー管理番号" max_length="40" name="u_managementnumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="パッチ依頼件数" mandatory="true" max_length="40" name="u_number_of_request" type="string"/>
+        <element label="New String" max_length="40" name="u_priority" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="重要度" mandatory="true" max_length="40" name="u_priority2" type="string">
+            <choice>
+                <element label="緊急" sequence="0" value="緊急"/>
+                <element label="普通" sequence="1" value="普通"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="起票者所属" mandatory="true" max_length="40" name="u_reperterdepartment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="添付" max_length="40" name="u_reportattachfile" type="string"/>
+        <element label="起票日" mandatory="true" max_length="40" name="u_reportdate" type="glide_date"/>
+        <element label="依頼日" max_length="40" name="u_reportdate_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_reportdtl_2j" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Reference" max_length="40" name="u_reporter" reference="cmdb_ci_appl_dot_net" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="所属" max_length="40" name="u_reporterdepartment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="起票者内線" mandatory="true" max_length="40" name="u_reporterphone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="依頼者内線" mandatory="true" max_length="40" name="u_reporterphone_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="依頼者" max_length="40" name="u_reporter_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="件名" mandatory="true" max_length="40" name="u_reporttitle_j" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="システム担当（ＣＣ）" max_length="40" name="u_sendcc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="システム担当（ＴＯ）" mandatory="true" max_length="40" name="u_sendto" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="対象ＤＢ" mandatory="true" max_length="40" name="u_tbl_db" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザー側チェック担当(TO)" mandatory="true" max_length="40" name="u_ua" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザー側チェック担当(CC)" mandatory="true" max_length="40" name="u_ua_cc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザー管理職" mandatory="true" max_length="40" name="u_useradmin" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザー管理職（代理承認）" max_length="40" name="u_useradmin_2" type="string"/>
+    </element>
+</database>

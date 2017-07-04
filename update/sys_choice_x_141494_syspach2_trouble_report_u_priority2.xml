@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_priority2" table="x_141494_syspach2_trouble_report" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>緊急</label>
+            <language>en</language>
+            <name>x_141494_syspach2_trouble_report</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 05:56:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53f259340ff7320017d906ace1050e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 05:56:10</sys_updated_on>
+            <value>緊急</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>普通</label>
+            <language>en</language>
+            <name>x_141494_syspach2_trouble_report</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 05:56:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ff259340ff7320017d906ace1050e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 05:56:10</sys_updated_on>
+            <value>普通</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_priority2</element>
+            <name>x_141494_syspach2_trouble_report</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 05:56:10</sys_created_on>
+            <sys_id>1bf259340ff7320017d906ace1050e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_priority2</sys_name>
+            <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
+            <sys_update_name>sys_choice_x_141494_syspach2_trouble_report_u_priority2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 05:56:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
