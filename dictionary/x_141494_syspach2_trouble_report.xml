@@ -2,7 +2,7 @@
 <database>
     <element extends="task" label="Trouble Report" max_length="40" name="x_141494_syspach2_trouble_report" type="collection">
         <element attributes="edge_encryption_enabled=true" label="内容" mandatory="true" max_length="40" name="u_content" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="ATLAS" label="ＤＢ区分" mandatory="true" max_length="40" name="u_db_section" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="ＤＢ区分" mandatory="true" max_length="40" name="u_db_section" type="string">
             <choice>
                 <element label="ATLAS" sequence="0" value="ATLAS"/>
                 <element label="NAPOLEON" sequence="1" value="NAPOLEON"/>
@@ -10,7 +10,9 @@
             </choice>
         </element>
         <element label="希望対応日" mandatory="true" max_length="40" name="u_desirabledate_for_hndline" type="glide_date"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="担当Ｇ" max_length="1024" name="u_handlingg" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理番号" max_length="40" name="u_managementnumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_memo_j" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="パッチ依頼件数" mandatory="true" max_length="40" name="u_number_of_request" type="string"/>
         <element label="New String" max_length="40" name="u_priority" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="重要度" mandatory="true" max_length="40" name="u_priority2" type="string">
@@ -19,6 +21,10 @@
                 <element label="普通" sequence="1" value="普通"/>
             </choice>
         </element>
+        <element label="受付日" max_length="40" name="u_rcvdate" type="glide_date"/>
+        <element label="所属" max_length="32" name="u_rcvdepartment" reference="sys_user" type="reference"/>
+        <element label="受付者" max_length="32" name="u_rcver" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="受付者内線" max_length="40" name="u_rcvphone" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="起票者所属" mandatory="true" max_length="40" name="u_reperterdepartment" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="添付" max_length="40" name="u_reportattachfile" type="string"/>
         <element label="起票日" mandatory="true" max_length="40" name="u_reportdate" type="glide_date"/>
@@ -31,11 +37,14 @@
         <element attributes="edge_encryption_enabled=true" label="依頼者内線" mandatory="true" max_length="40" name="u_reporterphone_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="依頼者" max_length="40" name="u_reporter_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="件名" mandatory="true" max_length="40" name="u_reporttitle_j" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="システム担当（ＣＣ）" max_length="40" name="u_sendcc" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="システム担当（ＴＯ）" mandatory="true" max_length="40" name="u_sendto" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="システム担当（ＣＣ）" max_length="1024" name="u_sendcc" reference="ar_sys_email" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="システム担当（ＴＯ）" max_length="1024" name="u_sendto" reference="ar_sys_email" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="バッチ作業担当者" max_length="1024" name="u_sendtosys" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="システム担当者" max_length="1024" name="u_sendtosystem" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="サブシステム" max_length="1024" name="u_subsystem" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="対象ＤＢ" mandatory="true" max_length="40" name="u_tbl_db" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="ユーザー側チェック担当(TO)" mandatory="true" max_length="40" name="u_ua" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="ユーザー側チェック担当(CC)" mandatory="true" max_length="40" name="u_ua_cc" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="ユーザ側チェック担当者（ＴＯ）" mandatory="true" max_length="1024" name="u_ua" reference="ar_sys_email" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザ側チェック担当者（ＣＣ）" max_length="1024" name="u_ua_cc" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理職" mandatory="true" max_length="40" name="u_useradmin" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理職（代理承認）" max_length="40" name="u_useradmin_2" type="string"/>
     </element>

@@ -4,7 +4,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>no_sort=true,slushbucket_ref_no_expand=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -26,15 +26,15 @@
         <element>u_sendto</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
-        <max_length>40</max_length>
+        <internal_type display_value="">glide_list</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>1024</max_length>
         <name>x_141494_syspach2_trouble_report</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="ar_sys_email">ar_sys_email</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -46,8 +46,8 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-04 04:57:29</sys_created_on>
-        <sys_id>a385c1bc0fb7320017d906ace1050e4d</sys_id>
+        <sys_created_on>2017-07-05 08:07:51</sys_created_on>
+        <sys_id>39ba3e4d0fb3320017d906ace1050e12</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>システム担当（ＴＯ）</sys_name>
         <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
@@ -55,7 +55,7 @@
         <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
         <sys_update_name>sys_dictionary_x_141494_syspach2_trouble_report_u_sendto</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-04 05:03:07</sys_updated_on>
+        <sys_updated_on>2017-07-05 08:09:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

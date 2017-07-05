@@ -5,27 +5,27 @@
             <element>u_reportdate</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>315a59f40ff7320017d906ace1050e93</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>11b9b64d0fb3320017d906ace1050e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reperterdepartment</element>
+            <element>u_reporterphone</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>b15a59f40ff7320017d906ace1050e93</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>91b9b64d0fb3320017d906ace1050e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_desirabledate_for_hndline</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>355a59f40ff7320017d906ace1050e93</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>15b9b64d0fb3320017d906ace1050e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,153 +47,153 @@
             <element>u_db_section</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>b55a59f40ff7320017d906ace1050e93</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>95b9b64d0fb3320017d906ace1050e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_ua</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>395a59f40ff7320017d906ace1050e93</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reporttitle_j</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>b95a59f40ff7320017d906ace1050e93</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reportattachfile</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>3d5a59f40ff7320017d906ace1050e93</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>bd5a59f40ff7320017d906ace1050e93</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reporterphone</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>315a59f40ff7320017d906ace1050e94</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_priority2</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>b15a59f40ff7320017d906ace1050e94</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_number_of_request</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>355a59f40ff7320017d906ace1050e94</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_managementnumber</element>
-            <position>11</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>b55a59f40ff7320017d906ace1050e94</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>19b9b64d0fb3320017d906ace1050e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>99b9b64d0fb3320017d906ace1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reperterdepartment</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>1db9b64d0fb3320017d906ace1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_priority2</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>9db9b64d0fb3320017d906ace1050e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_number_of_request</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>11b9b64d0fb3320017d906ace1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_tbl_db</element>
-            <position>12</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>395a59f40ff7320017d906ace1050e94</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>91b9b64d0fb3320017d906ace1050e12</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>15b9b64d0fb3320017d906ace1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ua</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>95b9b64d0fb3320017d906ace1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_ua_cc</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>b95a59f40ff7320017d906ace1050e94</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>19b9b64d0fb3320017d906ace1050e12</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reporttitle_j</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>99b9b64d0fb3320017d906ace1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,27 @@
             <element>u_content</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 06:28:18</sys_created_on>
-            <sys_id>3d5a59f40ff7320017d906ace1050e94</sys_id>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>1db9b64d0fb3320017d906ace1050e12</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 06:28:18</sys_updated_on>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reportattachfile</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:03:26</sys_created_on>
+            <sys_id>9db9b64d0fb3320017d906ace1050e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="起票" display_value="起票" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">55eae8b00fb7320017d906ace1050e87</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-05 08:03:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

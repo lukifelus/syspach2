@@ -47,15 +47,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-04 04:46:31</sys_created_on>
-        <sys_id>b603c17c0fb7320017d906ace1050ef1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>dac03ec50fb3320017d906ace1050e52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>依頼者</sys_name>
         <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
         <sys_policy/>
         <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
         <sys_update_name>sys_dictionary_x_141494_syspach2_trouble_report_u_reporter_2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-04 04:49:05</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-05 07:24:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

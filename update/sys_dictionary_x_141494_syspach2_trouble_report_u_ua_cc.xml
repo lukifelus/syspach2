@@ -10,7 +10,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>ユーザー側チェック担当(CC)</column_label>
+        <column_label>ユーザ側チェック担当者（ＣＣ）</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,8 +27,8 @@
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
-        <max_length>40</max_length>
+        <mandatory>false</mandatory>
+        <max_length>1024</max_length>
         <name>x_141494_syspach2_trouble_report</name>
         <next_element/>
         <primary>false</primary>
@@ -47,15 +47,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-04 04:36:14</sys_created_on>
-        <sys_id>5cb049f80fb7320017d906ace1050e53</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>ユーザー側チェック担当(CC)</sys_name>
+        <sys_id>96c03ec50fb3320017d906ace1050e61</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ユーザ側チェック担当者（ＣＣ）</sys_name>
         <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
         <sys_policy/>
         <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
         <sys_update_name>sys_dictionary_x_141494_syspach2_trouble_report_u_ua_cc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-04 04:38:00</sys_updated_on>
+        <sys_updated_on>2017-07-05 07:57:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
