@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_mtg_comment" label="パッチ依頼経緯などコメント" language="en" table="x_141494_syspach2_trouble_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_mtg_comment</element>
+            <help/>
+            <hint/>
+            <label>パッチ依頼経緯などコメント</label>
+            <language>en</language>
+            <name>x_141494_syspach2_trouble_report</name>
+            <plural>パッチ依頼経緯などコメントs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:47:49</sys_created_on>
+            <sys_id>a58613990f73320017d906ace1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>パッチ依頼経緯などコメント</sys_name>
+            <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
+            <sys_update_name>sys_documentation_x_141494_syspach2_trouble_report_u_mtg_comment_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:47:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

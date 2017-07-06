@@ -99,6 +99,62 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-06 01:44:03</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a7293190f73320017d906ace1050eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_syspach2_trouble_report" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">a027a0300f77320017d906ace1050e53</sys_ui_form>
+            <sys_ui_section caption="完了" display_value="完了" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">567293190f73320017d906ace1050eb0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:30:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:38:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d7493590f73320017d906ace1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_syspach2_trouble_report" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">a027a0300f77320017d906ace1050e53</sys_ui_form>
+            <sys_ui_section caption="承認" display_value="承認" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">257493590f73320017d906ace1050e3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:38:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:42:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e651b190f73320017d906ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_syspach2_trouble_report" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">a027a0300f77320017d906ace1050e53</sys_ui_form>
+            <sys_ui_section caption="備考" display_value="備考" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">ce651b190f73320017d906ace1050e61</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:42:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:49:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58e693990f73320017d906ace1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_syspach2_trouble_report" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">a027a0300f77320017d906ace1050e53</sys_ui_form>
+            <sys_ui_section caption="作成／更新情報" display_value="作成／更新情報" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">58e693590f73320017d906ace1050e81</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:49:22</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_141494_syspach2_trouble_report</name>
             <roles/>

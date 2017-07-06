@@ -5,13 +5,13 @@
             <element>u_ansdate</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-06 01:52:32</sys_created_on>
-            <sys_id>bd6e22990f33320017d906ace1050e3d</sys_id>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>195253190f73320017d906ace1050ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-06 01:52:32</sys_updated_on>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_ansdepartment</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-06 01:52:32</sys_created_on>
-            <sys_id>316e22990f33320017d906ace1050e3e</sys_id>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>995253190f73320017d906ace1050ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-06 01:52:32</sys_updated_on>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_number_of_task</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-06 01:52:32</sys_created_on>
-            <sys_id>b16e22990f33320017d906ace1050e3e</sys_id>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>1d5253190f73320017d906ace1050ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-06 01:52:32</sys_updated_on>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-06 01:52:32</sys_created_on>
-            <sys_id>356e22990f33320017d906ace1050e3e</sys_id>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>9d5253190f73320017d906ace1050ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-06 01:52:32</sys_updated_on>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_anser</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-06 01:52:32</sys_created_on>
-            <sys_id>b56e22990f33320017d906ace1050e3e</sys_id>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>115253190f73320017d906ace1050ebe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-06 01:52:32</sys_updated_on>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,139 @@
             <element>u_ansphone</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-06 01:52:32</sys_created_on>
-            <sys_id>396e22990f33320017d906ace1050e3e</sys_id>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>915253190f73320017d906ace1050ebe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-06 01:52:32</sys_updated_on>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>155253190f73320017d906ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ansattachfile1</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>955253190f73320017d906ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cope</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>195253190f73320017d906ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_key1</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>995253190f73320017d906ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_key_2</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>1d5253190f73320017d906ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_key_3</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>9d5253190f73320017d906ace1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_key_4</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>115253190f73320017d906ace1050ebf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_key_5</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>915253190f73320017d906ace1050ebf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_key_6</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 04:29:30</sys_created_on>
+            <sys_id>155253190f73320017d906ace1050ebf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="対応" display_value="対応" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">6d7c22190f33320017d906ace1050ef7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 04:29:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
