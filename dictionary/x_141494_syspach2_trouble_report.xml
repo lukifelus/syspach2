@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="Trouble Report" max_length="40" name="x_141494_syspach2_trouble_report" type="collection">
+        <element label="対応日" max_length="40" name="u_ansdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="所属" max_length="40" name="u_ansdepartment" type="string"/>
+        <element label="対応者" max_length="32" name="u_anser" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="対応者内線" mandatory="true" max_length="40" name="u_ansphone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="承認状況１" max_length="40" name="u_approve1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="承認状況２" max_length="40" name="u_approve2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="承認状況３" max_length="40" name="u_approve3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="承認状況４" max_length="40" name="u_approve4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="承認状況５" max_length="40" name="u_approve5" type="string"/>
         <element label="New URL" max_length="1024" name="u_asc_link" type="url"/>
         <element label="ＡＳＣ議事録リンク" max_length="1024" name="u_asc_link1" type="url"/>
         <element label="基盤への引継記録　確認済み" max_length="40" name="u_baserecord" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="変更箇所／却下事由" max_length="40" name="u_changepoint" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="内容" mandatory="true" max_length="40" name="u_content" type="string"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="データオーナー" max_length="1024" name="u_dataowner" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="データオーナー１" max_length="40" name="u_dataowner1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="データオーナー２" max_length="40" name="u_dataowner2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="データオーナー３" max_length="40" name="u_dataowner3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="データオーナー４" max_length="40" name="u_dataowner4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="データオーナー５" max_length="40" name="u_dataowner5" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="ＤＢ区分" mandatory="true" max_length="40" name="u_db_section" type="string">
             <choice>
                 <element label="ATLAS" sequence="0" value="ATLAS"/>
@@ -20,9 +34,11 @@
         <element label="調査実施者" max_length="32" name="u_examiner" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="調査実施者内線" max_length="40" name="u_exaphone" type="string"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="担当Ｇ" max_length="1024" name="u_handlingg" type="glide_list"/>
+        <element label="New Icon" max_length="100" name="u_icon_1" type="icon"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理番号" max_length="40" name="u_managementnumber" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_memo_j" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="パッチ依頼件数" mandatory="true" max_length="40" name="u_number_of_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="実パッチ件数" max_length="40" name="u_number_of_task" type="string"/>
         <element label="パッチ実績有り" max_length="40" name="u_patchactual" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="パッチパターン番号" max_length="40" name="u_patchnumber" type="string"/>
         <element label="New String" max_length="40" name="u_priority" type="boolean"/>
@@ -36,6 +52,8 @@
         <element label="所属" max_length="32" name="u_rcvdepartment" reference="sys_user" type="reference"/>
         <element label="受付者" max_length="32" name="u_rcver" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="受付者内線" max_length="40" name="u_rcvphone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="承認状況" max_length="40" name="u_rejection" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="却下事由" max_length="40" name="u_rejectionreason" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="起票者所属" mandatory="true" max_length="40" name="u_reperterdepartment" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="添付" max_length="40" name="u_reportattachfile" type="string"/>
         <element label="起票日" mandatory="true" max_length="40" name="u_reportdate" type="glide_date"/>
