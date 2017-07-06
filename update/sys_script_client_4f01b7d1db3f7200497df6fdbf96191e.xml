@@ -4,18 +4,16 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>get BusinessPhone Number at onChange.</description>
-        <field>u_reporter1</field>
+        <description>get BuzPhone Number at onLoad.</description>
+        <field>active</field>
         <global>true</global>
         <messages/>
-        <name>trouble_report_getBuzPhoneNumber_onCng</name>
+        <name>trouble_report_getBuzNumber_onLoad</name>
         <order/>
-        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
-   if (isLoading || newValue === '') {
-      return;
-   }
-
- 	var userName = g_form.getValue('u_reporter1');
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   
+	 	var userName = g_form.getValue('u_reporter1');
 	var businessPhoneNumber;
 	
 	  var ga = new GlideAjax('trouble_report_getPhoneNumber');
@@ -32,23 +30,23 @@
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-06 05:49:29</sys_created_on>
+        <sys_created_on>2017-07-06 06:44:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>f4c36799dbfb7200497df6fdbf96197a</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>trouble_report_getBuzPhoneNumber_onCng</sys_name>
+        <sys_id>4f01b7d1db3f7200497df6fdbf96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>trouble_report_getBuzNumber_onLoad</sys_name>
         <sys_overrides/>
         <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
-        <sys_update_name>sys_script_client_f4c36799dbfb7200497df6fdbf96197a</sys_update_name>
+        <sys_update_name>sys_script_client_4f01b7d1db3f7200497df6fdbf96191e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-06 06:42:35</sys_updated_on>
+        <sys_updated_on>2017-07-06 06:44:56</sys_updated_on>
         <table>x_141494_syspach2_trouble_report</table>
-        <type>onChange</type>
+        <type>onLoad</type>
         <ui_type>0</ui_type>
         <view/>
     </sys_script_client>
