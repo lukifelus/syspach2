@@ -6,11 +6,13 @@
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-04 02:12:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3baf58b80f37320017d906ace1050ecb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>fbaf58b80f37320017d906ace1050ec8</sys_name>
         <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
         <sys_update_name>sys_embedded_help_role_3baf58b80f37320017d906ace1050ecb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

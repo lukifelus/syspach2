@@ -47,15 +47,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-05 08:15:59</sys_created_on>
-        <sys_id>419cbec50fb3320017d906ace1050ea1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>329edb55dbfb7200497df6fdbf961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>システム担当（ＣＣ）</sys_name>
         <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
         <sys_update_name>sys_dictionary_x_141494_syspach2_trouble_report_u_sendcc</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-05 08:16:22</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-06 05:23:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
