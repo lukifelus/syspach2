@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="調査" section_id="de2b52110f33320017d906ace1050e86" sys_domain="global" table="x_141494_syspach2_trouble_report" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exadate</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>ac61ae150f33320017d906ace1050e8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exadepartment</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>2061ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_patchactual</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>a061ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asc_link1</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>2461ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_baserecord</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>a461ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dataowner</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>2861ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_changepoint</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>a861ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>2c61ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_examiner</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>ac61ae150f33320017d906ace1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exaphone</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>2061ae150f33320017d906ace1050e8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_patchnumber</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:55:38</sys_created_on>
+            <sys_id>a061ae150f33320017d906ace1050e8e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:55:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>調査</caption>
+            <header>false</header>
+            <name>x_141494_syspach2_trouble_report</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:28:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de2b52110f33320017d906ace1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>調査</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="syspach2" source="x_141494_syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="syspach2">c9ee1c3c0f33320017d906ace1050e49</sys_scope>
+            <sys_update_name>sys_ui_section_de2b52110f33320017d906ace1050e86</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:28:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

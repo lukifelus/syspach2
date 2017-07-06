@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="Trouble Report" max_length="40" name="x_141494_syspach2_trouble_report" type="collection">
+        <element label="New URL" max_length="1024" name="u_asc_link" type="url"/>
+        <element label="ＡＳＣ議事録リンク" max_length="1024" name="u_asc_link1" type="url"/>
+        <element label="基盤への引継記録　確認済み" max_length="40" name="u_baserecord" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="変更箇所／却下事由" max_length="40" name="u_changepoint" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="内容" mandatory="true" max_length="40" name="u_content" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="データオーナー" max_length="1024" name="u_dataowner" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="ＤＢ区分" mandatory="true" max_length="40" name="u_db_section" type="string">
             <choice>
                 <element label="ATLAS" sequence="0" value="ATLAS"/>
@@ -10,10 +15,16 @@
             </choice>
         </element>
         <element label="希望対応日" mandatory="true" max_length="40" name="u_desirabledate_for_hndline" type="glide_date"/>
+        <element label="調査結果報告書" max_length="40" name="u_exadate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="所属" max_length="40" name="u_exadepartment" type="string"/>
+        <element label="調査実施者" max_length="32" name="u_examiner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="調査実施者内線" max_length="40" name="u_exaphone" type="string"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="担当Ｇ" max_length="1024" name="u_handlingg" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理番号" max_length="40" name="u_managementnumber" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="コメント" max_length="40" name="u_memo_j" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="パッチ依頼件数" mandatory="true" max_length="40" name="u_number_of_request" type="string"/>
+        <element label="パッチ実績有り" max_length="40" name="u_patchactual" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="パッチパターン番号" max_length="40" name="u_patchnumber" type="string"/>
         <element label="New String" max_length="40" name="u_priority" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="重要度" mandatory="true" max_length="40" name="u_priority2" type="string">
             <choice>

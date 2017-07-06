@@ -57,6 +57,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-05 08:22:15</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-06 00:28:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>522b52110f33320017d906ace1050e8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_syspach2_trouble_report" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">a027a0300f77320017d906ace1050e53</sys_ui_form>
+            <sys_ui_section caption="調査" display_value="調査" name="x_141494_syspach2_trouble_report" sys_domain="global" view="Default view">de2b52110f33320017d906ace1050e86</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-06 00:28:28</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_141494_syspach2_trouble_report</name>
             <roles/>
