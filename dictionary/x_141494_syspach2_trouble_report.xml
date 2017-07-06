@@ -99,6 +99,7 @@
         <element attributes="edge_encryption_enabled=true" label="対象ＤＢ" mandatory="true" max_length="40" name="u_tbl_db" type="string"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="ユーザ側チェック担当者（ＴＯ）" mandatory="true" max_length="1024" name="u_ua" reference="ar_sys_email" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザ側チェック担当者（ＣＣ）" max_length="1024" name="u_ua_cc" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="ユーザ側チェック担当者（ＣＣ）" max_length="1024" name="u_ua_cc1" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理職" mandatory="true" max_length="40" name="u_useradmin" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="ユーザー管理職（代理承認）" max_length="40" name="u_useradmin_2" type="string"/>
     </element>
